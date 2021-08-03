@@ -1,7 +1,3 @@
-Following the
+I followed the [docs](https://strawberry.rocks/docs) and it worked.
 
-    https://strawberry.rocks/docs
-
-guide.
-
-The installation command `pip install strawberry-graphql[debug-server]` must use python 3 and preferably a newer one, and must be run in bash.
+The installation command `pip install strawberry-graphql[debug-server]` must use python 3 and preferably a newer one, and must be run in bash.  So for me I had to run `bash` and then `pip3 install strawberry-graphql[debug-server]`.
